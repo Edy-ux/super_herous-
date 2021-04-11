@@ -1,5 +1,7 @@
 # super_herous-
-Trabalhando com JSON  Request usando XMLHttpResquest. Obtendo dados em formato JSON, convertendo para um Objeto Javaspript. Manipulando a DOM e mostrando dinamicamente da pagina 
+##Trabalhando com JSON.
+-Usando XMLHttpResquest e Obtendo dados em formato JSON e convertendo para um Objeto Javaspript. 
+-Manipulando a DOM e mostrando dinamicamente os dados da pagina 
 
 - Pagina 
 
